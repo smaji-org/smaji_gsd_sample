@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<gsd version="1.0"
+  xmlns="http://cjkv.smaji.org/ns/gsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://cjkv.smaji.org/ns/gsd https://cjkv.smaji.org/xml/1.0/xsd/gsd.xsd">
+<glyph unicode="4e08">
+  <stroke>
+    <h>
+      <start x="4" y="34" />
+      <length is="100" />
+    </h>
+  </stroke>
+  <stroke>
+    <wt>
+      <start x="60" y="6" />
+      <length><length is="50" /></length>
+      <ctrl1><auto></auto></ctrl1>
+      <ctrl2><auto></auto></ctrl2>
+      <end x="10" y="110" />
+    </wt>
+  </stroke>
+  <stroke>
+    <p>
+      <start x="24" y="40" />
+      <ctrl1><auto></auto></ctrl1>
+      <ctrl2><auto></auto></ctrl2>
+      <end x="104" y="110" />
+    </p>
+  </stroke>
+</glyph>
+</gsd>
+
