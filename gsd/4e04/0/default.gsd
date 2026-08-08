@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<gsd version="1.0"
+  xmlns="http://cjkv.smaji.org/ns/gsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://cjkv.smaji.org/ns/gsd https://cjkv.smaji.org/xml/1.0/xsd/gsd.xsd">
+<glyph unicode="4e04">
+  <stroke>
+    <v>
+      <start x="60" y="4" />
+      <length is="110" />
+    </v>
+  </stroke>
+  <stroke>
+    <h>
+      <start x="4" y="112" />
+      <length is="110" />
+    </h>
+  </stroke>
+</glyph>
+</gsd>
+
