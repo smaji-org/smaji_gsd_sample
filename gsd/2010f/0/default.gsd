@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<gsd version="1.0"
+  xmlns="http://cjkv.smaji.org/ns/gsd"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://cjkv.smaji.org/ns/gsd https://cjkv.smaji.org/xml/1.0/xsd/gsd.xsd">
+<glyph unicode="2010f" transform="rotate180">
+  <character utf8="了" x="0" y="0" width="60" height="88" />
+</glyph>
+</gsd>
+
